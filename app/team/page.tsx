@@ -148,7 +148,7 @@ const Team = () => {
                 </div>
                 <div className="flex flex-col justify-center gap-2 mt-4">
                   <span className="font-bold text-2xl text-center text-transparent bg-clip-text bg-gradient-to-b from-[#0298F9] to-[#086BEA]">
-                    Dr. Chayan Das
+                    Dr. Piyush P. Wanjari​
                   </span>
                   <span className="font-medium text-lg text-center text-white">
                     Professor Incharge
