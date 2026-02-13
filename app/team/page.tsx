@@ -27,7 +27,7 @@ import prgya from "../../public/assets/team/Pragya.jpeg";
 import mohit from "../../public/assets/team/mohit.jpg";
 import dhruv from "../../public/assets/team/Dhrooooov.jpg";
 import tanisha from "../../public/assets/team/Tanisha.jpg";
-import chayan from "../../public/assets/team/chayan.jpg";
+import chayan from "../../public/assets/team/py.jpg";
 import khatri from "../../public/assets/team/khatri.jpg";
 import abhijeet from "../../public/assets/team/abhijeet1.jpg";
 import Link from "next/link";
